@@ -1430,5 +1430,21 @@
     "published": "Wed, 17 Jun 2026 21:03:41 +0000",
     "hash": null,
     "image": "https://www.ornl.gov/sites/default/files/2026-06/AI%20Expo%2026.jpg"
+  },
+  {
+    "title": "Q&A with Melissa Cregger: From field to factory with precision crops",
+    "link": "https://www.ornl.gov/news/qa-melissa-cregger-field-factory-precision-crops",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Mon, 22 Jun 2026 15:06:03 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-06/Melissa%20greenhouse%202021-P03021.jpg"
+  },
+  {
+    "title": "ORNL debuts JACC for performance-portable Julia for HPC systems",
+    "link": "https://www.ornl.gov/news/ornl-debuts-jacc-performance-portable-julia-hpc-systems",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Wed, 17 Jun 2026 11:43:46 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-06/frame_00003708.png"
   }
 ]

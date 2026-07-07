@@ -1558,5 +1558,37 @@
     "published": "Thu, 02 Jul 2026 16:41:14 +0000",
     "hash": null,
     "image": "https://www.ornl.gov/sites/default/files/2026-07/rare%20mineral%20in%20microscope.jpg"
+  },
+  {
+    "title": "Argonne team\u2019s ChemGraph unlocks AI for chemistry and materials science",
+    "link": "https://www.alcf.anl.gov/news/argonne-team-s-chemgraph-unlocks-ai-chemistry-and-materials-science",
+    "source": "https://www.alcf.anl.gov/news/rss.xml",
+    "published": "Tue, 07 Jul 2026 12:00:00 +0000",
+    "hash": null,
+    "image": null
+  },
+  {
+    "title": "Modeling framework reveals grid battery aging effects",
+    "link": "https://www.ornl.gov/news/modeling-framework-reveals-grid-battery-aging-effects",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Tue, 07 Jul 2026 14:00:00 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-06/computational%20tool%20for%20designing%20large-acale%20battery%20storage%20systems.jpg"
+  },
+  {
+    "title": "New motor drive design reduces heat, wear in high-power systems",
+    "link": "https://www.ornl.gov/news/new-motor-drive-design-reduces-heat-wear-high-power-systems",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Wed, 01 Jul 2026 11:43:06 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-07/ORNL%27s%20Gui-Jia%20Su.jpg"
+  },
+  {
+    "title": "Oak Ridge National Lab, Cleveland Clinic, and IBM achieve first-known computations of fusion materials on a quantum computer",
+    "link": "https://www.ornl.gov/news/oak-ridge-national-lab-cleveland-clinic-and-ibm-achieve-first-known-computations-fusion",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Mon, 06 Jul 2026 17:50:25 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-07/Final_molten_salt_ORNL_fcd9bca36d.png"
   }
 ]

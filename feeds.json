@@ -1862,5 +1862,21 @@
     "published": "Thu, 30 Jul 2026 17:08:48 +0000",
     "hash": null,
     "image": "https://www.ornl.gov/sites/default/files/2026-08/IMG_1990%20%281%29.jpeg"
+  },
+  {
+    "title": "Scientists deploy AI agents to accelerate discovery of new materials",
+    "link": "https://www.alcf.anl.gov/news/scientists-deploy-ai-agents-accelerate-discovery-new-materials",
+    "source": "https://www.alcf.anl.gov/news/rss.xml",
+    "published": "Thu, 06 Aug 2026 12:00:00 +0000",
+    "hash": null,
+    "image": null
+  },
+  {
+    "title": "Predicting microelectronics performance with physics-informed artificial intelligence",
+    "link": "https://www.alcf.anl.gov/news/predicting-microelectronics-performance-physics-informed-artificial-intelligence",
+    "source": "https://www.alcf.anl.gov/news/rss.xml",
+    "published": "Wed, 05 Aug 2026 12:00:00 +0000",
+    "hash": null,
+    "image": null
   }
 ]

@@ -1990,5 +1990,21 @@
     "published": "Fri, 28 Aug 2026 13:25:14 +0000",
     "hash": null,
     "image": "https://www.ornl.gov/sites/default/files/2026-08/SQC26_Group-Photo.jpeg"
+  },
+  {
+    "title": "ALCF Service-Enabled Science series explores experiment-time computing and the DIII-D digital twin",
+    "link": "https://www.alcf.anl.gov/news/alcf-service-enabled-science-series-explores-experiment-time-computing-and-diii-d-digital-twin",
+    "source": "https://www.alcf.anl.gov/news/rss.xml",
+    "published": "Mon, 31 Aug 2026 12:00:00 +0000",
+    "hash": null,
+    "image": null
+  },
+  {
+    "title": "ORNL assessment uncovers hydropower opportunities in existing dams",
+    "link": "https://www.ornl.gov/news/ornl-assessment-uncovers-hydropower-opportunities-existing-dams",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Tue, 01 Sep 2026 11:54:46 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-09/NPD%20Olmstead%20240116-A-A1409-1024.png"
   }
 ]

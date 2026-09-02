@@ -2014,5 +2014,21 @@
     "published": "Fri, 25 Sep 2026 12:00:00 +0000",
     "hash": null,
     "image": null
+  },
+  {
+    "title": "AI automates the creation of custom materials",
+    "link": "https://www.ornl.gov/news/ai-automates-creation-custom-materials",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Tue, 01 Sep 2026 13:19:28 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-09/AICreatedCustomMaterials_Graphic.jpg"
+  },
+  {
+    "title": "From side reaction to center stage: Bleach, salt water boost power in grid batteries",
+    "link": "https://www.ornl.gov/news/side-reaction-center-stage-bleach-salt-water-boost-power-grid-batteries",
+    "source": "https://www.ornl.gov/RssFeeds/ornl_news_releases.xml",
+    "published": "Tue, 01 Sep 2026 13:39:44 +0000",
+    "hash": null,
+    "image": "https://www.ornl.gov/sites/default/files/2026-09/Wooseok.jpg"
   }
 ]

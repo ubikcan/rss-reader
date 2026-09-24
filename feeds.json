@@ -2190,5 +2190,13 @@
     "published": "Wed, 02 Sep 2026 18:49:05 +0000",
     "hash": null,
     "image": "https://www.ornl.gov/sites/default/files/2026-09/nathan%20sims.jpg"
+  },
+  {
+    "title": "ALCF summer students explore HPC, AI, and scientific computing",
+    "link": "https://www.alcf.anl.gov/news/alcf-summer-students-explore-hpc-ai-and-scientific-computing",
+    "source": "https://www.alcf.anl.gov/news/rss.xml",
+    "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+    "hash": null,
+    "image": null
   }
 ]
